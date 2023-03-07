@@ -22,7 +22,7 @@
 
 # About Data
 
-- 📈 [Download Data.](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) I collected this data from Jan-2015 to Jan-2023.
+- 📈 [Download Data.](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) I collected this data from Jan-2015 to Current date.
 
 - Date: Date of trade
 
@@ -40,12 +40,11 @@
 
 
 # Libraries that i used in the project. 
-1. Pandas
-2. Matplotlib
+- I used diffrent libraries in this project
 ### You can install this libraries by using the command.
 
 ```bash
-pip install {library name}
+pip install -r requirements.txt 
 ```
 ---
 <p align="center">
