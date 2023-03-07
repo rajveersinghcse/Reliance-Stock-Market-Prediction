@@ -22,7 +22,9 @@
 
 # About Data
 
-- 📈 [Download Data.](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) I collected this data from Jan-2015 to Current date.
+- 📈 [Data](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) I collected this data from Jan-2015 to Current date.
+
+- You can download the data from the above website or use the Yfinance library to collect the data.
 
 - Date: Date of trade
 
