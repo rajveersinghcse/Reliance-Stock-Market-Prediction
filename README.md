@@ -3,7 +3,7 @@
 
 
 <h3>Hey Folks,👨🏻‍💻</h3>
-<p>I have created a stock market price prediction program that can predict the stock price of any company for the next 30 days. Here I used the last 7 years' data of Reliance Industries Limited. I did this project during my internship</p>
+<p>I have created a <b>Reliance Stock Market Price Prediction</b> project that can predict the stock price of any company for the next 30 days. Here I used the last 7 years' data of Reliance Industries Limited. I did this project during my internship</p>
 
 <h2>Description of the project:</h2>
 <h4>Business Objective of the project</h4>
@@ -20,9 +20,11 @@
 
 - Forecast for next 30 days.
 
-# About Data
+# About Data 📈 
 
-- 📈 [Download Data.](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) I collected this data from Jan-2015 to Jan-2023.
+- [Data.](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) I collected this data from Jan-2015 to Current date.
+
+- You can download the data from the above website or use the Yfinance library to collect the data.
 
 - Date: Date of trade
 
@@ -40,13 +42,25 @@
 
 
 # Libraries that i used in the project. 
-1. Pandas
-2. Matplotlib
-### You can install this libraries by using the command.
+- I used diffrent libraries in this project
 
+##### You can install these libraries by using the command.
+- It can install all the libraries in your system which I have used in my project. You will need Python in your system to use this command. You can use this given link to install python in your system : [Python](https://www.python.org/downloads/)
 ```bash
-pip install {library name}
+pip install -r requirements.txt 
 ```
+# Model Building.
+- For model building part, we used SVR, Random Forest, KNN, LSTM, and GRU models.
+
+- I was getting more accuracy in LSTM than in other models. So I decided to use the LSTM model in my deployment program or main project.
+<img height="170" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/ModelBuilding.png" alt="ModelBuilding">
+
+# How to deploy the project?
+- We used Streamlit library for the deployment part of this project. To deploy or run this project in your local system, you must run this command in your command prompt.
+```bash
+streamlit run app.py 
+```
+
 ---
 <p align="center">
 <b>Enjoy Coding</b>❤
