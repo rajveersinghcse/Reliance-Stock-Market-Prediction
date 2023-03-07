@@ -53,6 +53,7 @@ pip install -r requirements.txt
 - For model building part, we used SVR, Random Forest, KNN, LSTM, and GRU models.
 
 - I was getting more accuracy in LSTM than in other models. So I decided to use the LSTM model in my deployment program or main project.
+<img align="right"  height="220" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/coder.gif" alt="coder">
 
 # How to deploy the project?
 - We used Streamlit library for the deployment part of this project. To deploy or run this project in your local system, you must run this command in your command prompt.
