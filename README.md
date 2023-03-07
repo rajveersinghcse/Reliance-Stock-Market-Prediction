@@ -42,7 +42,7 @@
 # Libraries that i used in the project. 
 - I used diffrent libraries in this project
 ### You can install this libraries by using the command.
-- It can install all the libraries in your system that i used in my project. To used this command you need Python in your system. To install python you can use this given link : [Python](https://www.python.org/downloads/)
+- It can install all the libraries in your system which I have used in my project. You will need Python in your system to use this command. You can use this given link to install python in your system : [Python](https://www.python.org/downloads/)
 ```bash
 pip install -r requirements.txt 
 ```
