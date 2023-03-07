@@ -49,8 +49,8 @@
 ```bash
 pip install -r requirements.txt 
 ```
-# How to deploye the project.
-- We used Streamlit Library to deployemnt part of this project. To deploye or run this project in your local system you have to run this command into your command prompt.
+# How to deploy the project.
+- We used Streamlit library for the deployment part of this project. To deploy or run this project in your local system, you must run this command in your command prompt.
 ```bash
 streamlit run app.py 
 ```
