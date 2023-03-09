@@ -18,8 +18,8 @@ from keras.layers import Dense, LSTM
 
 
 
-START = st.date_input("Please select the starting date", dt.date(2015, 1, 1))
-END = st.date_input("Please select the Ending date", dt.date(2023, 2, 28))
+START = "2015-01-01"
+TODAY = dt.datetime.now().strftime("%Y-%m-%d")
 
 stocks = ["RELIANCE.NS"]
 
@@ -28,7 +28,7 @@ stocks = ["RELIANCE.NS"]
 
 #@st.cache(suppress_st_warning=True)
 def load_data(ticker):
-    data = yf.download(ticker, START,  END)
+    data = yf.download(ticker, START,  TODAY)
     data.reset_index(inplace=True)
     return data
 
@@ -226,7 +226,7 @@ choices = st.sidebar.selectbox("Select the Activity", menu,index=0)
 if choices == 'EDA':
     
     # Importing dataset
-    reliance_0 = yf.download('RELIANCE.NS', start=START, end=END)
+    reliance_0 = yf.download('RELIANCE.NS', start='2015-01-01')
     reliance_0.reset_index(inplace = True)
     st.title('Reliance Stock Market Prediction')
     st.header("Data We collected from the source")
