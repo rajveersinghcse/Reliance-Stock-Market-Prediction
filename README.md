@@ -55,6 +55,12 @@ pip install -r requirements.txt
 - I was getting more accuracy in LSTM than in other models. So I decided to use the LSTM model in my deployment program or main project.
 <img height="170" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/ModelBuilding.png" alt="ModelBuilding">
 
+# Cloud Version of this project.
+- I deoploy this project on the cloud you can check out by this link:
+
+- [Project](https://rajveersinghcse-reliance-stock-market-prediction-app-jndxqw.streamlit.app/)
+
+
 # How to deploy the project?
 - We used Streamlit library for the deployment part of this project. To deploy or run this project in your local system, you must run this command in your command prompt.
 ```bash
