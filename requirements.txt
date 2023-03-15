@@ -8,4 +8,5 @@ yfinance
 plotly
 tqdm
 streamlit
+nbformat
 -e .
