@@ -206,3 +206,4 @@ if bt:
 else:
     #displayed when the button is unclicked
     st.write('Please click on the submit button to get the EDA ans Prediction') 
+
