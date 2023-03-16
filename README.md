@@ -6,8 +6,8 @@
 <h3>Hey Folks,👨🏻‍💻</h3>
 <p>I have created a <b>Stock Market Price Prediction</b> project that can predict the stock price of any company for the next 30 days. Here I used the last 7 years' data of Reliance Industries Limited. I did this project during my internship</p>
 
-<h2>Description of the project:</h2>
-<h4>Business Objective of the project</h4>
+# What we have to do in this Project:
+<h3><b>Business Objective of the project</b></h3>
 
 - Predict the Reliance Industries Stock Price for the next 30 days.
 
@@ -21,11 +21,13 @@
 
 - Forecast for next 30 days.
 
-# About Data 📈 
+# How to collect the Data?
 
-- [Data.](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) I collected this data from Jan-2015 to Current date.
+- I collected this data from 1-Jan-2015 to 28-Feb-2023. <b>[DATA](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)</b>
 
 - You can download the data from the above website or use the Yfinance library to collect the data.
+
+# About Data 📈 
 
 - Date: Date of trade
 
@@ -43,10 +45,18 @@
 
 
 # Libraries that i used in the project. 
-- I used diffrent libraries in this project
+- I have already mentioned in my [Libraries](https://github.com/rajveersinghcse/Reliance_Stock_Market_Prediction/blob/main/requirements.txt) folder which libraries I have used in my project.
 
-##### You can install these libraries by using the command.
-- It can install all the libraries in your system which I have used in my project. You will need Python in your system to use this command. You can use this given link to install python in your system : [Python](https://www.python.org/downloads/)
+## How to install these libraries?
+
+### You can install these libraries by using the command.
+
+- It can install all the libraries in your system which I have used in my project. 
+
+- You will need Python in your system to use this command. You can use this given link to install python in your system : [Python](https://www.python.org/downloads/)
+
+- After installation of python, you need to run this command in your command prompt.
+
 ```bash
 pip install -r requirements.txt 
 ```
