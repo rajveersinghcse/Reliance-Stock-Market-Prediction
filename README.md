@@ -7,7 +7,7 @@
 <p>I have created a <b>Stock Market Price Prediction</b> project that can predict the stock price of any company for the next 30 days. Here I used the last 7 years' data of Reliance Industries Limited. I did this project during my internship</p>
 
 # What we have to do in this Project:
-<h4>Business Objective of the project</h4>
+<h3><b>Business Objective of the project</b></h3>
 
 - Predict the Reliance Industries Stock Price for the next 30 days.
 
