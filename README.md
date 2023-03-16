@@ -21,11 +21,13 @@
 
 - Forecast for next 30 days.
 
-# About Data 📈 
+# How to collect the Data?
 
 - I collected this data from 1-Jan-2015 to 28-Feb-2023. <b>[DATA](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)</b>
 
 - You can download the data from the above website or use the Yfinance library to collect the data.
+
+# About Data 📈 
 
 - Date: Date of trade
 
