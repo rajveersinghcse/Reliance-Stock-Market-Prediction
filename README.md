@@ -47,7 +47,7 @@
 # Libraries that i used in the project. 
 - I have already mentioned in my [Libraries](https://github.com/rajveersinghcse/Reliance_Stock_Market_Prediction/blob/main/requirements.txt) folder which libraries I have used in my project.
 
-# How to install these libraries?
+## How to install these libraries?
 
 ### You can install these libraries by using the command.
 
