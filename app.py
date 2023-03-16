@@ -14,7 +14,7 @@ with st.sidebar:
     # user_input = st.text_input('Enter Stock Name', "ADANIENT.NS")
     st.markdown("### Choose Date for your anaylsis")
     START = st.date_input("From",datetime.date(2015, 1, 1))
-    END = st.date_input("To",datetime.date(2023, 2, 25))
+    END = st.date_input("To",datetime.date(2023, 2, 28))
     bt = st.button('Submit') 
 
 #adding a button
