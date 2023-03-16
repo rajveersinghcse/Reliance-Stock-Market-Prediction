@@ -51,7 +51,11 @@
 
 ### You can install these libraries by using the command.
 
-- It can install all the libraries in your system which I have used in my project. You will need Python in your system to use this command. You can use this given link to install python in your system : [Python](https://www.python.org/downloads/)
+- It can install all the libraries in your system which I have used in my project. 
+
+- You will need Python in your system to use this command. You can use this given link to install python in your system : [Python](https://www.python.org/downloads/)
+
+- After installation of python, you need to run this command in your command prompt.
 
 ```bash
 pip install -r requirements.txt 
