@@ -67,7 +67,7 @@ pip install -r requirements.txt
 <img height="170" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/ModelBuilding.png" alt="ModelBuilding">
 
 # Cloud Version of this project.
-- I deploy this project on the cloud you can check it out at this link: [Project](https://rajveersinghcse-reliance-stock-market-prediction-app-jndxqw.streamlit.app/)
+- I deploy this project on the cloud you can check it out at this link: [Project](https://rajveersinghcse-reliance-stock-market-prediction-app-0aobyl.streamlit.app/)
 
 
 # How to deploy the project?
