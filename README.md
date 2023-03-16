@@ -45,7 +45,7 @@
 
 
 # Libraries that i used in the project. 
-- I used diffrent libraries in this project
+- I have already mentioned in my [Libraries](https://github.com/rajveersinghcse/Reliance_Stock_Market_Prediction/blob/main/requirements.txt) folder which libraries I have used in my project.
 
 ##### You can install these libraries by using the command.
 - It can install all the libraries in your system which I have used in my project. You will need Python in your system to use this command. You can use this given link to install python in your system : [Python](https://www.python.org/downloads/)
