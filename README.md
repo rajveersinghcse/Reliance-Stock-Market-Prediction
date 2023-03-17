@@ -1,4 +1,4 @@
-# Reliance-Stock-Market-Prediction
+# Reliance-Stock-Market-Prediction ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/StockMarker.jpg)
 💹Predication of Reliance Stock Price Project.
 
