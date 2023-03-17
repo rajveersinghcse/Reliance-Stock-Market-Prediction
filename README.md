@@ -1,7 +1,7 @@
 # Reliance-Stock-Market-Prediction ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/StockMarker.jpg)
-💹Predication of Reliance Stock Price Project.
 
+💹Predication of Reliance Stock Price Project.
+![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/StockMarker.jpg)
 
 <h3>Hey Folks,👨🏻‍💻</h3>
 <p>I have created a <b>Stock Market Price Prediction</b> project that can predict the stock price of any company for the next 30 days. Here I used the last 7 years' data of Reliance Industries Limited. I did this project during my internship</p>
