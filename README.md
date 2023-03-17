@@ -1,5 +1,5 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rajveersinghcse-reliance-stock-market-prediction-app-0aobyl.streamlit.app)
-![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
+[![MIT LICENSE](https://badgen.net//badge/license/MIT/green)](https://github.com/rajveersinghcse/Reliance_Stock_Market_Prediction/blob/main/LICENSE)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
 # Reliance-Stock-Market-Prediction 
 
@@ -78,7 +78,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py 
 ```
-
 ---
 <p align="center">
 <b>Enjoy Coding</b>❤
