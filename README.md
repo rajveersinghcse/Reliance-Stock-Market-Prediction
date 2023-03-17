@@ -1,4 +1,4 @@
-# Reliance-Stock-Market-Prediction ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# Reliance-Stock-Market-Prediction 
 
 Predication of Reliance Stock Price Project.
 ![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/StockMarker.jpg)
@@ -53,7 +53,7 @@ Predication of Reliance Stock Price Project.
 
 - It can install all the libraries in your system which I have used in my project. 
 
-- You will need Python in your system to use this command. You can use this given link to install python in your system : [Python](https://www.python.org/downloads/)
+- You will need Python in your system to use this command. You can use this given link to install python in your system : [<img height="20" width="70" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="coder">](https://www.python.org/downloads/)
 
 - After installation of python, you need to run this command in your command prompt.
 
