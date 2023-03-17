@@ -1,6 +1,5 @@
-# Reliance-Stock-Market-Prediction <img height="20" width="70" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="coder">
+# Reliance-Stock-Market-Prediction <img height="20" width="70" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img height="20" width="90" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img height="20" width="80" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 
-Predication of Reliance Stock Price Project.
 ![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/StockMarker.jpg)
 
 <h3>Hey Folks,👨🏻‍💻</h3>
