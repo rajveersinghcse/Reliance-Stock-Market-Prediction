@@ -67,7 +67,7 @@ pip install -r requirements.txt
 - For model building part, we used SVR, Random Forest, KNN, LSTM, and GRU models.
 
 - I was getting more accuracy in LSTM than in other models. So I decided to use the LSTM model in my deployment program or main project.
-<img height="170" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/main/img/ModelBuilding.png" alt="ModelBuilding">
+<img height="170" width="350" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/ModelBuilding.png" alt="ModelBuilding">
 
 # Cloud Version of this project.
 - I deploy this project on the cloud you can check it out at this link: [Project](https://rajveersinghcse-reliance-stock-market-prediction-app-0xijl8.streamlit.app/)
