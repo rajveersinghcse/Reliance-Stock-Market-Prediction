@@ -29,7 +29,7 @@
 
 - You can download the data from the above website or use the Yfinance library to collect the data.
 
-# About Data 📈 
+## About Data 📈 
 
 - Date: Date of trade
 
