@@ -23,7 +23,7 @@
 
 - Forecast for the next 30 days.
 
-# How to collect the Data?
+# Description of The Data?
 
 - I collected this data from 1-Jan-2015 to 28-Feb-2023. <b>[DATA](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)</b>
 
