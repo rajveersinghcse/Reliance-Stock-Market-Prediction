@@ -53,8 +53,8 @@ def create_model(df):
     # Transform back to original form
     train_predict = scaler.inverse_transform(train_predict)
     test_predict = scaler.inverse_transform(test_predict)
-    original_ytrain = scaler.inverse_transform(y_train.reshape(-1,1)) 
-    original_ytest = scaler.inverse_transform(y_test.reshape(-1,1)) 
+    scaler.inverse_transform(y_train.reshape(-1,1)) 
+    scaler.inverse_transform(y_test.reshape(-1,1)) 
 
     # shift train predictions for plotting
     look_back=time_step
@@ -75,7 +75,7 @@ def create_model(df):
     temp_input=temp_input[0].tolist()
     from numpy import array
     lst_output=[]
-    n_steps=time_step
+    
     i=0
     pred_days = 30
     while(i<pred_days):
