@@ -20,7 +20,7 @@ The main objective of the project is to predict the stock prices of Reliance Ind
 
 ## About Data 📈 
 
-- This data includes attributes such as:
+### This data includes attributes such as:
 - <b>Date:</b> Date of trade
 - <b>Open:</b> Opening price of the stock
 - <b>High:</b> Highest price of the stock on that day
