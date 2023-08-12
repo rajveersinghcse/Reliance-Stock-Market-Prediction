@@ -15,7 +15,7 @@
 <h3><b>Business Objective of the project</b></h3>
 The main objective of the project is to predict the stock prices of Reliance Industries Limited for the upcoming 30 days. This involves obtaining essential stock data such as Open, High, Low, and Close prices from 2015 to 2022. The project aims to identify short-term and long-term trends, analyze the impact of external factors and significant events, and provide a forecast for the next month.
 
-# Description of The Data?
+# Description of The Data:
 
 - The project utilizes stock market <b>[DATA](https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1420070400&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)</b> gathered from January 1, 2015, to February 28, 2023.
 - You can download the data from the above website or use the Yfinance library to collect the data.
