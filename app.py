@@ -183,11 +183,11 @@ if bt:
     st.pyplot()
 
 
-    st.subheader('Stock Price vs 200-day Moving Average')
+    st.subheader('Stock Price vs 100-day Moving Average')
     plt.plot(reliance_ma['Close'],label='Original data')
-    plt.plot(reliance_ma['200-day MA'],label='200-MA')
+    plt.plot(reliance_ma['100-day MA'],label='100-MA')
     plt.legend()
-    plt.title('Stock Price vs 200-day Moving Average')
+    plt.title('Stock Price vs 100-day Moving Average')
     plt.xlabel('Date')
     plt.ylabel('Price')
     st.pyplot()
